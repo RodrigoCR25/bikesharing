@@ -8,7 +8,7 @@
 
 ![image](https://github.com/RodrigoCR25/bikesharing/blob/main/Trips%20by%20Gender.png)
 
-![image]
+![image](https://github.com/RodrigoCR25/bikesharing/blob/main/User%20Trips%20by%20Gender.png)
 
 ![image]
 
