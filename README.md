@@ -2,7 +2,7 @@
 
 ![image](https://github.com/RodrigoCR25/bikesharing/blob/main/Checkout%20Times%20for%20Users.png)
 
-![image]
+![image](https://github.com/RodrigoCR25/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png)
 
 ![image]
 
