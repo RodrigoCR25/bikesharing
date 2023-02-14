@@ -1,5 +1,17 @@
 # bikesharing
 
+![image](https://github.com/RodrigoCR25/bikesharing/blob/main/Checkout%20Times%20for%20Users.png)
+
+![image]
+
+![image]
+
+![image]
+
+![image]
+
+![image]
+
 ![image]
 
 Rodrigo
