@@ -6,7 +6,7 @@
 
 ![image](https://github.com/RodrigoCR25/bikesharing/blob/main/Trips%20by%20Weekday%20per%20Hour.png)
 
-![image]
+![image](https://github.com/RodrigoCR25/bikesharing/blob/main/Trips%20by%20Gender.png)
 
 ![image]
 
