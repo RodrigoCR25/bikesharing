@@ -12,7 +12,7 @@
 
 ![image](https://github.com/RodrigoCR25/bikesharing/blob/main/Gender.png)
 
-![image]
+![image](https://github.com/RodrigoCR25/bikesharing/blob/main/Cyclist%20Initial%20Time%20Duration.png)
 
 Rodrigo
 https://public.tableau.com/app/profile/rodrigo8277/viz/CityBikeNewYork_16763385496100/CitiBikeNewYork?publish=yes
